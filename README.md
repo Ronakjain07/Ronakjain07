@@ -1,4 +1,5 @@
-<img width="4950" height="1238" alt="Black and White Modern Corporate Business Consulting   Sales LinkedIn Banner" src="https://github.com/user-attachments/assets/7d60711d-51d4-46a8-bc8f-0b0627e2cbe4" />
+
+<img width="4950" height="1238" alt="Black and White Modern Corporate Business Consulting   Sales LinkedIn Banner" src="https://github.com/user-attachments/assets/eb5df330-0efb-4547-a251-bfaf9a60eb02" />
 
 # 💫 About Me:
 🔭 I’m currently working on web projects with real impact.<br>🧑‍🤝‍🧑 I’m looking to collaborate on tech-driven ideas.<br>🤝 I’m looking for help with scaling solutions.<br>🌱 I’m currently learning product-focused development.<br>💬 Ask me about web development & startups.<br>⚡ Fun fact: I enjoy solving complex problems simply.
