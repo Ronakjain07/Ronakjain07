@@ -1,5 +1,4 @@
-![1723246516782](https://github.com/user-attachments/assets/d99d4220-778c-4c2f-8b7a-2f00d7afa83d)
-
+<img width="4950" height="1238" alt="Black and White Modern Corporate Business Consulting   Sales LinkedIn Banner" src="https://github.com/user-attachments/assets/7d60711d-51d4-46a8-bc8f-0b0627e2cbe4" />
 # 💫 About Me:
 🔭 I’m currently working on web projects with real impact.<br>🧑‍🤝‍🧑 I’m looking to collaborate on tech-driven ideas.<br>🤝 I’m looking for help with scaling solutions.<br>🌱 I’m currently learning product-focused development.<br>💬 Ask me about web development & startups.<br>⚡ Fun fact: I enjoy solving complex problems simply.
 
