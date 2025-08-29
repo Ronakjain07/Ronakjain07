@@ -1,4 +1,4 @@
-![215283228-89a6af16-23b1-4144-ac9b-064dc973b3db](https://github.com/user-attachments/assets/bf3f86d8-570d-4d37-9dce-8e813070325f)
+![1723246516782](https://github.com/user-attachments/assets/d99d4220-778c-4c2f-8b7a-2f00d7afa83d)
 
 # 💫 About Me:
 🔭 I’m currently working on web projects with real impact.<br>🧑‍🤝‍🧑 I’m looking to collaborate on tech-driven ideas.<br>🤝 I’m looking for help with scaling solutions.<br>🌱 I’m currently learning product-focused development.<br>💬 Ask me about web development & startups.<br>⚡ Fun fact: I enjoy solving complex problems simply.
