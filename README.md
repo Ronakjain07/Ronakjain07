@@ -1,3 +1,6 @@
+<div align="center">
+   <h1>Hi there, I'm <a href="[https://ronakjainn.netlify.app/]">Ronak</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
 <img width="4950" height="1238" alt="Black and White Modern Corporate Business Consulting   Sales LinkedIn Banner" src="https://github.com/user-attachments/assets/eb5df330-0efb-4547-a251-bfaf9a60eb02" />
 
