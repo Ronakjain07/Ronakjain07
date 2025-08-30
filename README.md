@@ -1,9 +1,8 @@
-<img width="4950" height="1238" alt="Black and White Modern Corporate Business Consulting   Sales LinkedIn Banner" src="https://github.com/user-attachments/assets/eb5df330-0efb-4547-a251-bfaf9a60eb02" />
-
 <div align="center">
    <h1>Hi there, I'm <a href="[https://ronakjainn.netlify.app/]">Ronak</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
+<img width="4950" height="1238" alt="Black and White Modern Corporate Business Consulting   Sales LinkedIn Banner" src="https://github.com/user-attachments/assets/eb5df330-0efb-4547-a251-bfaf9a60eb02" />
 
 # 💫 About Me:
 🔭 I’m currently working on web projects with real impact.<br>🧑‍🤝‍🧑 I’m looking to collaborate on tech-driven ideas.<br>🤝 I’m looking for help with scaling solutions.<br>🌱 I’m currently learning product-focused development.<br>💬 Ask me about web development & startups.<br>⚡ Fun fact: I enjoy solving complex problems simply.
