@@ -7,7 +7,6 @@
 # 💫 About Me:
 🔭 I’m currently working on web projects with real impact.<br>🧑‍🤝‍🧑 I’m looking to collaborate on tech-driven ideas.<br>🤝 I’m looking for help with scaling solutions.<br>🌱 I’m currently learning product-focused development.<br>💬 Ask me about web development & startups.<br>⚡ Fun fact: I enjoy solving complex problems simply.
 
-
 ## 🌐 Socials:
  [![portfolio](https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ronakjainn.netlify.app/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ronak_jainnn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ronak-jain-rj07) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaktjain07@gmail.com)  
 
